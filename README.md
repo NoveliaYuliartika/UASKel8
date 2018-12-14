@@ -6,25 +6,11 @@
 
 ## Deskripsi
 14 Desember 2018
+
 Daftar Lagu adalah aplikasi android yang menampilkan sistem informasi data berbagai macam lagu sebagai referensi bagi khalayak luas dalam mencari informasi tentang lagu. Dan pada aplikasi ini memiliki management daftar lagu yaitu CRUD(create,read,update,delete).
 
 ## Screenshots
-![Login](https://raw.githubusercontent.com/NoveliaYuliartika/daftarlagu/master/gambar/ScreenShoot%20Login.jpeg "Login")
 
-![RecyclerView](https://raw.githubusercontent.com/NoveliaYuliartika/daftarlagu/master/gambar/ScreenShoot%20%20RecyclerView.jpeg "RecyclerView")
-
-![Insert](https://raw.githubusercontent.com/NoveliaYuliartika/daftarlagu/master/gambar/ScreenShoot%20Setelah%20Insert.jpeg "Insert")
-
-
-![SetelahInsert](https://raw.githubusercontent.com/NoveliaYuliartika/daftarlagu/master/gambar/ScreenShoot%20Setelah%20Insert.jpeg "SetelahInsert")
-
-![PopUp](https://raw.githubusercontent.com/NoveliaYuliartika/daftarlagu/master/gambar/ScreenShoot%20PopUp.jpeg "PopUp")
-
-![Update](https://raw.githubusercontent.com/NoveliaYuliartika/daftarlagu/master/gambar/ScreenShoot%20Update.jpeg "Update")
-
-![SetelahUpdate](https://raw.githubusercontent.com/NoveliaYuliartika/daftarlagu/master/gambar/ScreenShoot%20Setelah%20Update.jpeg "SetelahUpdate")!
-
-![SetelahDelete](https://raw.githubusercontent.com/NoveliaYuliartika/daftarlagu/master/gambar/Screenshoot%20Setelah%20Delete.jpeg "SetelahDelete")
 
 
 ## Android OS dan level
